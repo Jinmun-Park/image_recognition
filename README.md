@@ -3,7 +3,7 @@
 ## My studies in image  
 1. Tensorflow Guide : [Tensorflow][Tensorflow] <br/>
 - This shows basic steps to run Convolutional Neural Network, CNN on images
-- [Youtube_CNN][Youtube_CNN] : Shows how CNN works
+- [Youtube_CNN][Youtube_CNN] / [한국어_CNN][한국어_CNN] : Shows how CNN works
 - [Youtube_RNN & LSTM][Youtube_RNN&LSTM] : Shows how RNN & LSTM works
 - [Dropout][Dropout] : PDF to see how dropout works to resolve overfitting
 
@@ -21,3 +21,4 @@ Different ways of augmenting the imagies
 [Kaggle_Augmentation]:https://www.kaggle.com/praveengovi/plant-pathology-detail-eda-pytorch
 [Youtube_CNN]:https://www.youtube.com/watch?v=FmpDIaiMIeA&ab_channel=BrandonRohrer
 [Youtube_RNN&LSTM]:https://www.youtube.com/watch?v=WCUNPb-5EYI&ab_channel=BrandonRohrer
+[한국어_CNN]:http://taewan.kim/post/cnn/
