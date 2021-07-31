@@ -6,12 +6,13 @@
 - [Youtube_CNN][Youtube_CNN] / [한국어_CNN][한국어_CNN] : Shows how CNN works
 - [Youtube_RNN & LSTM][Youtube_RNN&LSTM] : Shows how RNN & LSTM works
 - [Dropout][Dropout] : PDF to see how dropout works to resolve overfitting
-
-
 2. Animation : [Kaggle_Tumor_Animation][Kaggle_Tumor] <br/>
 3. Image Detection : [Kaggle_Image_Detection][Kaggle_Image_Detection]
 4. Image Augmentation : [Kaggle_Augmentation][Kaggle_Augmentation] <br/>
 Different ways of augmenting the imagies
+
+## My Projects ; 
+Follows https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte
 
 
 [Tensorflow]:https://www.tensorflow.org/tutorials/images/cnn
